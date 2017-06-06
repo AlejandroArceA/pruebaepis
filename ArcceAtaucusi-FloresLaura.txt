@@ -1,0 +1,15 @@
+Docente del curso
+Mi trabajo es: revisar sus tareas
+mir url: https://github.com/ivansoriasolis/pruebaepis
+
+
+
+integrantes:
+-Alejandro Arcce Ataucusi
+-Sandy Pilar Flores Laura
+
+tema:
+-paint
+URL: https://github.com/AlejandroArceA
+url trabajo:https://github.com/AlejandroArceA/Paint.git
+CORREO E:arce.gmns@gmail.com
